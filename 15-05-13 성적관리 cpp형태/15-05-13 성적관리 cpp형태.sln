@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15-05-13 성적관리 cpp형태", "15-05-13 성적관리 cpp형태.vcxproj", "{E8CC6D60-F0AD-401D-8500-554BFF2AF118}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8CC6D60-F0AD-401D-8500-554BFF2AF118}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E8CC6D60-F0AD-401D-8500-554BFF2AF118}.Debug|Win32.Build.0 = Debug|Win32
+		{E8CC6D60-F0AD-401D-8500-554BFF2AF118}.Release|Win32.ActiveCfg = Release|Win32
+		{E8CC6D60-F0AD-401D-8500-554BFF2AF118}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

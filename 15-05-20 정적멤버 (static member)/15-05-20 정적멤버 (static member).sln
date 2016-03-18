@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15-05-20 정적멤버 (static member)", "15-05-20 정적멤버 (static member).vcxproj", "{98B1FAAA-5961-4C2B-8E13-4FC9C28C921F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98B1FAAA-5961-4C2B-8E13-4FC9C28C921F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{98B1FAAA-5961-4C2B-8E13-4FC9C28C921F}.Debug|Win32.Build.0 = Debug|Win32
+		{98B1FAAA-5961-4C2B-8E13-4FC9C28C921F}.Release|Win32.ActiveCfg = Release|Win32
+		{98B1FAAA-5961-4C2B-8E13-4FC9C28C921F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

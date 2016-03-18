@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15-05-14 메모리10", "15-05-14 메모리10.vcxproj", "{63A4496F-4D24-447A-AD1F-2FA1BCEDB3C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63A4496F-4D24-447A-AD1F-2FA1BCEDB3C7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{63A4496F-4D24-447A-AD1F-2FA1BCEDB3C7}.Debug|Win32.Build.0 = Debug|Win32
+		{63A4496F-4D24-447A-AD1F-2FA1BCEDB3C7}.Release|Win32.ActiveCfg = Release|Win32
+		{63A4496F-4D24-447A-AD1F-2FA1BCEDB3C7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "15-05-27 단항 연산자 오버로딩", "15-05-27 단항 연산자 오버로딩.vcxproj", "{1F5037D0-1353-4A98-9346-5D28D150ACC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F5037D0-1353-4A98-9346-5D28D150ACC6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1F5037D0-1353-4A98-9346-5D28D150ACC6}.Debug|Win32.Build.0 = Debug|Win32
+		{1F5037D0-1353-4A98-9346-5D28D150ACC6}.Release|Win32.ActiveCfg = Release|Win32
+		{1F5037D0-1353-4A98-9346-5D28D150ACC6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
